@@ -46,6 +46,6 @@ Learning source : https://www.udemy.com/course/microservices-with-node-js-and-re
 
 Notes : https://drive.google.com/drive/u/0/folders/1iiMhq4S81PNr44SOPLDiXmemGfI5cJeE   
 
-Course log : 
+Course log (not played yet) : 10. Handling CORS Errors
 
   
