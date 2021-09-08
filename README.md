@@ -33,8 +33,8 @@ Takes two numbers and returns the sum.
   
 ## Appendix
 
-Learning source : 
-Notes : https://drive.google.com/drive/u/0/folders/1iiMhq4S81PNr44SOPLDiXmemGfI5cJeE
+Learning source : https://www.udemy.com/course/microservices-with-node-js-and-react/
 
-https://www.udemy.com/course/microservices-with-node-js-and-react/
+Notes : https://drive.google.com/drive/u/0/folders/1iiMhq4S81PNr44SOPLDiXmemGfI5cJeE   
+
   
