@@ -8,9 +8,12 @@ a mini example of how Microservices are worked. build with React & NodeJS
 
 #### Micro services
 | Service Name | Port     | Description                |
+| :--------    | :------- | :------------------------- |
 | client       | 3000     | React Frontend             |
+| :--------    | :------- | :------------------------- |
 | post         | 4000     | Post Backend               |
-| comment      | 4001     | Comment Backend            |
+| :--------    | :------- | :------------------------- |
+| comment      | 4001     | comment Backend            |
 
 #### Get all items
 
