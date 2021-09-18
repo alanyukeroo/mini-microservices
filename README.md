@@ -13,12 +13,20 @@ a mini example of how Microservices are work. build with React & NodeJS
 | post         | 4000     | Post Backend               |
 | comment      | 4001     | comment Backend            |
 
-#### Post Services
+#### Comment Service
 
 | Path                | Method   | Body               | Goals                      |
 | :--------           | :------- |:-------            | :------------------------- |
 | /posts/:id/comments | `POST`   | {content: string}  |Create comment associated with the given post ID  |
 | /posts/:id/comments | `GET`   | -  | Retrive all comments associated with the given post D   |
+
+
+#### Post Service
+
+| Path | Method   | Body               | Goals                      |
+| :--------| :------- |:-------            | :------------------------- |
+| /posts/ | `POST`   | {title: string}  |Create a new post  |
+| /posts/ | `GET`   | -  | Retrive all posts   |
   
 ## Appendix
 
