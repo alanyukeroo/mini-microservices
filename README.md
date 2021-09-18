@@ -1,7 +1,7 @@
 
 # Mini Microservices
 
-a mini example of how Microservices are worked. build with React & NodeJS
+a mini example of how Microservices are work. build with React & NodeJS
 
 
 ## API Reference (will update soon)
@@ -17,8 +17,8 @@ a mini example of how Microservices are worked. build with React & NodeJS
 
 | Path                | Method   | Body               | Goals                      |
 | :--------           | :------- |:-------            | :------------------------- |
-| /posts/:id/comments | `POST`   | {content: string}  |**Required**. Your API key  |
-
+| /posts/:id/comments | `POST`   | {content: string}  |Create comment associated with the given post ID  |
+| /posts/:id/comments | `GET`   | -  | Retrive all comments associated with the given post D   |
   
 ## Appendix
 
